@@ -1,5 +1,4 @@
 // Running these test agains however this time with the DRY Principle using hooks
-
 const hasDuplicateIds = require('./hasduplicateids');
 
 describe('DOM Tree has Duplicate IDs', () => {
